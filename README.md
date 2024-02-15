@@ -1,4 +1,4 @@
-## :wave: Hello World 
+## :wave: :earth_americas: Hello World 
 
 ## About me 
 
@@ -10,5 +10,6 @@ Throughout my thirteen years of experience being an architect I realised that wh
 
 I’m looking for opportunities that match with my purpose and give me exposure to continuous learning in the technology field. Please feel free to get in touch with me. I welcome the chance to connect and explore potential collaboration.
 
-## Languages & Tools
+## :hammer_and_wrench:  Languages & Tools
 
+![Alt text](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg)
